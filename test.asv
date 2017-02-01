@@ -1,0 +1,2 @@
+function r=test(x,o)
+MultDivd(x,o);
